@@ -1,0 +1,74 @@
+[
+  {
+    "title": "What does the <b> tag do?",
+    "answer_1": "Makes text bold",
+    "answer_2": "Makes text italic",
+    "answer_3": "Adds a line break",
+    "answer_4": "Inserts an image",
+    "right_answer": "Makes text bold"
+  },
+  {
+    "title": "What is the purpose of the <i> tag?",
+    "answer_1": "To insert an image",
+    "answer_2": "To make text italic",
+    "answer_3": "To create a list",
+    "answer_4": "To make text bold",
+    "right_answer": "To make text italic"
+  },
+  {
+    "title": "What is the function of the <a> tag?",
+    "answer_1": "Creates a hyperlink",
+    "answer_2": "Inserts an image",
+    "answer_3": "Creates a table",
+    "answer_4": "Adds a line break",
+    "right_answer": "Creates a hyperlink"
+  },
+  {
+    "title": "What does the <img> tag do?",
+    "answer_1": "Inserts an image",
+    "answer_2": "Makes text bold",
+    "answer_3": "Creates a list",
+    "answer_4": "Creates a table",
+    "right_answer": "Inserts an image"
+  },
+  {
+    "title": "What is the purpose of the <ul> tag?",
+    "answer_1": "Creates an unordered list",
+    "answer_2": "Creates a hyperlink",
+    "answer_3": "Creates a table",
+    "answer_4": "Inserts an image",
+    "right_answer": "Creates an unordered list"
+  },
+  {
+    "title": "Which tag is used for creating a table?",
+    "answer_1": "<div>",
+    "answer_2": "<table>",
+    "answer_3": "<span>",
+    "answer_4": "<img>",
+    "right_answer": "<table>"
+  },
+  {
+    "title": "What does the <h1> tag represent?",
+    "answer_1": "A level 1 heading",
+    "answer_2": "A paragraph",
+    "answer_3": "An image",
+    "answer_4": "A list item",
+    "right_answer": "A level 1 heading"
+  },
+  {
+    "title": "What is the purpose of the <p> tag?",
+    "answer_1": "Creates a paragraph",
+    "answer_2": "Creates a table",
+    "answer_3": "Inserts an image",
+    "answer_4": "Creates a list",
+    "right_answer": "Creates a paragraph"
+  },
+  {
+    "title": "Which tag is used to create a horizontal line?",
+    "answer_1": "<hr>",
+    "answer_2": "<br>",
+    "answer_3": "<div>",
+    "answer_4": "<span>",
+    "right_answer": "<hr>"
+  }
+]
